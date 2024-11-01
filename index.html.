@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda de Agendas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Agendas Perfectas para Cada Día</h1>
+        <p>Encuentra la agenda que mejor se adapte a tus necesidades y comienza a organizar tu vida.</p>
+    </header>
+
+    <main>
+        <section class="product">
+            <h2>Agenda Clásica</h2>
+            <img src="ruta_de_imagen_clasica.jpg" alt="Agenda Clásica">
+            <p>Descripción breve de la agenda clásica y sus características destacadas.</p>
+            <a href="https://amazon.com/tu_link_de_afiliado_clasica" target="_blank" class="button">Comprar en Amazon</a>
+        </section>
+
+        <section class="product">
+            <h2>Agenda Minimalista</h2>
+            <img src="ruta_de_imagen_minimalista.jpg" alt="Agenda Minimalista">
+            <p>Descripción breve de la agenda minimalista y sus características destacadas.</p>
+            <a href="https://amazon.com/tu_link_de_afiliado_minimalista" target="_blank" class="button">Comprar en Amazon</a>
+        </section>
+
+        <!-- Agrega más secciones para otras agendas -->
+    </main>
+
+    <footer>
+        <p>© 2024 Tienda de Agendas. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
